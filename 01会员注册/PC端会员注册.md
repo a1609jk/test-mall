@@ -9,3 +9,5 @@
    ![20201030160234](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201030160234.png)
 5. 会员登录界面，未输入信息时提示语重叠。需确认，是否邮箱、手机号、会员用户名均可登录？
 ![20201030160727](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201030160727.png)
+6. 选择忘记密码时，需要输入邮箱，但邮箱注册时未填写。左上角的图片与系统中设定不一致，并提示中文未绑定邮箱。
+![20201030162716](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201030162716.png)
