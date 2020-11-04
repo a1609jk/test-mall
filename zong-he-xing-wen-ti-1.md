@@ -85,8 +85,7 @@ description: 本次测试为2020/10/30服务器版本
 
     ![20201030144836](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201030144836.png)
 
-12. 支付问题，选择便利店支付时未收到便利店的支付通知邮件。该功能以前已实现。
-13. 个人中心检索按钮显示不正常。
+12. 个人中心检索按钮显示不正常。
 
     ![20201030145514](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201030145514.png)
 
@@ -94,11 +93,21 @@ description: 本次测试为2020/10/30服务器版本
 
     ![20201030145626](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201030145626.png)
 
-14. 电话号码问题仍有残留，平台后台添加操作员时输入日本手机号显示不正确，或只校验位数11位就行。目前服务器版本创建失败。
+13. 电话号码问题仍有残留，平台后台添加操作员时输入日本手机号显示不正确，或只校验位数11位就行。目前服务器版本创建失败。
 
     ![20201030150331](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201030150331.png)
 
     ![20201030150454](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201030150454.png)
 
-15. 部分字段既无中文展示也无日文字段展示，流程中会详细标注。
+14. H5买家现金出金功能已取消，但页面中仍有显示，pc端已无该内容，只有充值。且买家余额进入后显示的是微信支付宝充值，与PC端不一致。
+![20201104154930](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201104154930.png)
+![20201104155356](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201104155356.png)
+![20201104155427](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201104155427.png)
+
+15. 商家后台，选中发货订单后提示系统出小差等，刷新页面或点取消，显示已发货。
+![20201104161453](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201104161453.png)
+![20201104161526](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201104161526.png)
+![20201104161548](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201104161548.png)
+![20201104161650](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201104161650.png)
+16. 部分字段既无中文展示也无日文字段展示，流程中会详细标注。
 

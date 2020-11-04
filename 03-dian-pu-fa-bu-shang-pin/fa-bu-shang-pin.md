@@ -24,3 +24,10 @@
 
    ![20201030141114](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201030141114.png)  
 
+3. 设置发货地区中，有中国、日本的文字显示。
+   ![20201030142837](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201030142837.png)
+
+   ![20201030142920](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201030142920.png)
+
+   
+
